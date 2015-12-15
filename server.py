@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-A chat server that can handle up to 5 concurrent clients at a time.
+A chat server in Python.
 Entering 'stop' at the terminal will exit the server.
 """
 
